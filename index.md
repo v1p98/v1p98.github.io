@@ -11,3 +11,4 @@ My name is **Yichen Gao**, and I'm a graduate student in Financial Engineering a
 
 - [About Me](about.md)
 - [Projects](projects.md)
+- [Misc](misc.md)
