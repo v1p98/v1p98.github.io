@@ -2,7 +2,10 @@
 layout: default
 title: Home
 ---
-![My Photo](me.jpg)
+
+<p align="center">
+  <img src="me.jpg" alt="My Photo" width="200">
+</p>
 
 # Welcome!
 
@@ -13,3 +16,4 @@ My name is **Yichen Gao**, and I'm a graduate student in Financial Engineering a
 - [About Me](about.md)
 - [Projects](projects.md)
 - [Misc](misc.md)
+
