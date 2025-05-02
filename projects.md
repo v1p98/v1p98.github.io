@@ -6,8 +6,6 @@ title: Projects
 permalink: /projects/
 ---
 
-## Selected Projects
-
 # Selected Projects
 
 ---
