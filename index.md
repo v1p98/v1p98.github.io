@@ -34,6 +34,11 @@ title: Home
   display: block;
   margin: 6px 0;
   color: #007acc;
+  text-decoration: none;
+}
+
+.links a:hover {
+  text-decoration: underline;
 }
 </style>
 
@@ -44,9 +49,15 @@ title: Home
       I'm a graduate student in Financial Engineering at Cornell University.  
       I specialize in quantitative finance, machine learning, and systematic trading.
     </p>
+
+  <div class="links">
+    <a href="/about/">📄 About Me</a>
+    <a href="/projects/">💼 Projects</a>
+    <a href="/misc/">🌱 Misc</a>
   </div>
-- [About Me](about.md)
-- [Projects](projects.md)
-- [Misc](misc.md)
+
+  </div>
+
   <img src="me.jpg" alt="Yichen Gao" class="intro-image">
 </div>
+
