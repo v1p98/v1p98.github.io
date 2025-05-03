@@ -55,6 +55,10 @@ title: Home
     <a href="/projects/">💼 Projects</a>
     <a href="/misc/">🌱 Misc</a>
   </div>
+  <p>
+    📧 Email: <a href="yg635@cornell.edu">yg635@cornell.edu</a>
+  </p>
+
 
   </div>
 
