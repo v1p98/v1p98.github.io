@@ -60,7 +60,8 @@ title: Home
 
   <img src="me.jpg" alt="Yichen Gao" class="intro-image">
   <p>
-    📧 Email: <a href="yg635@cornell.edu">yg635@cornell.edu</a>
+    📧 Email: <a href="mailto:yg635@cornell.edu">yg635@cornell.edu</a>
   </p>
+
 </div>
 
