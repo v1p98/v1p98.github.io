@@ -44,13 +44,9 @@ title: Home
       I'm a graduate student in Financial Engineering at Cornell University.  
       I specialize in quantitative finance, machine learning, and systematic trading.
     </p>
-
-    <div class="links">
-      <a href="about.md">📄 About Me</a>
-      <a href="projects.md">💼 Projects</a>
-      <a href="misc.md">🌱 Misc</a>
-    </div>
   </div>
-
+- [About Me](about.md)
+- [Projects](projects.md)
+- [Misc](misc.md)
   <img src="me.jpg" alt="Yichen Gao" class="intro-image">
 </div>
