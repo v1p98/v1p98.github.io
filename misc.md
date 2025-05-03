@@ -14,7 +14,7 @@ This section includes some of my personal interests and additional information.
 
 ### Hobbies
 
-- Playing bridge (曾任学生桥牌协会主席)
+- Playing bridge
 - Reading financial news (Wall Street Journal, FT)
 - Programming mini-games and trading tools
 
@@ -26,4 +26,4 @@ This section includes some of my personal interests and additional information.
 ### Links
 
 - [My GitHub](https://github.com/v1p98)
-- [LinkedIn](https://linkedin.com/in/your-profile)
+- [LinkedIn](https://www.linkedin.com/in/v1p98)
