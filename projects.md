@@ -1,9 +1,11 @@
-[Home](index.md) | [About Me](about.md) | [Projects](projects.md) | [Misc](misc.md)
-
 ---
 layout: default
 title: Projects
 permalink: /projects/
+---
+
+[Home](index.md) | [About Me](about.md) | [Projects](projects.md) | [Misc](misc.md)
+
 ---
 
 # Selected Projects
