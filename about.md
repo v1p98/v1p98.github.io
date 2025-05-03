@@ -9,7 +9,7 @@ permalink: /about/
 ---
 
 <p align="center">
-  <img src="assets/me.jpg" alt="Yichen Gao" width="220" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
+  <img src="me.jpg" alt="Yichen Gao" width="220" style="border-radius: 10px; box-shadow: 0 4px 12px rgba(0,0,0,0.1);">
 </p>
 
 I am Yichen Gao, a graduate student in Financial Engineering at Cornell University. I hold a Bachelor of Science in Statistics from the University of Science and Technology of China.
