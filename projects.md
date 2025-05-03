@@ -26,7 +26,8 @@ permalink: /projects/
 - Analyzed and identified key drivers for algorithm design.  
 - Designed and backtested a time-weighted, score-based execution strategy with machine learning–based parameter optimization.
 
-<a href="reports/project1.pdf" target="_blank">📄 View Full Report (PDF)</a>
+<a href="assets/Algorithm_Trading.pdf" target="_blank">📄 View Full Report (PDF)</a>
+
 ---
 
 ## 📈 Barra Multi-Factor Model Construction  
