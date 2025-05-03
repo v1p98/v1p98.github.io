@@ -16,3 +16,9 @@ I am skilled in Python, R, C++, and SQL, and have hands-on experience with finan
 
 I am passionate about using technology and mathematics to solve real-world financial problems, and I’m always eager to collaborate on challenging projects that bridge theory and practice.
 
+<h2>📄 My Resume</h2>
+
+<iframe src="assets/Gao.Yichen resume.pdf" width="100%" height="800px" style="border: none;">
+  This browser does not support PDFs. Please download the PDF to view it:
+  <a href="assets/resume.pdf">Download PDF</a>
+</iframe>
