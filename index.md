@@ -55,13 +55,12 @@ title: Home
     <a href="/projects/">💼 Projects</a>
     <a href="/misc/">🌱 Misc</a>
   </div>
-  <p>
-    📧 Email: <a href="yg635@cornell.edu">yg635@cornell.edu</a>
-  </p>
-
-
+  
   </div>
 
   <img src="me.jpg" alt="Yichen Gao" class="intro-image">
+  <p>
+    📧 Email: <a href="yg635@cornell.edu">yg635@cornell.edu</a>
+  </p>
 </div>
 
