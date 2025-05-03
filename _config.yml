@@ -1,2 +1,12 @@
-title: Yichen Gao
 theme: jekyll-theme-minimal
+title: Yichen Gao
+markdown: kramdown
+plugins:
+  - jekyll-feed
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: default
+      stylesheet: /assets/css/style.css
