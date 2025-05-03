@@ -15,13 +15,13 @@ This section includes some of my personal interests and additional information.
 ### Hobbies
 
 - Playing bridge
-- Reading financial news (Wall Street Journal, FT)
+- Playing board games
 - Programming mini-games and trading tools
 
 ### Favorite Books
 
+- *The Kite Runner* – Khaled Hosseini
 - *The Man Who Solved the Market* – Gregory Zuckerman
-- *Options, Futures, and Other Derivatives* – John Hull
 
 ### Links
 
