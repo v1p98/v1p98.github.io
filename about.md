@@ -18,7 +18,4 @@ I am passionate about using technology and mathematics to solve real-world finan
 
 <h2>📄 My Resume</h2>
 
-<iframe src="assets/Gao.Yichen.Resume.pdf" width="100%" height="800px" style="border: none;">
-  This browser does not support PDFs. Please download the PDF to view it:
-  <a href="assets/Gao.Yichen.Resume.pdf">Download PDF</a>
-</iframe>
+📄 <a href="assets/Gao.Yichen.Resume.pdf" target="_blank">View My Resume (PDF)</a>
