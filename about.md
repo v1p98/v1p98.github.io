@@ -18,4 +18,4 @@ I am passionate about using technology and mathematics to solve real-world finan
 
 <h2>📄 My Resume</h2>
 
-📄 <a href="assets/Gao.Yichen.Resume.pdf" target="_blank">View My Resume (PDF)</a>
+📄 <a href="assets/Resume.pdf" target="_blank">View My Resume (PDF)</a>
