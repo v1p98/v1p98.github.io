@@ -27,7 +27,7 @@ permalink: /projects/
 - Designed and backtested a time-weighted, score-based execution strategy with machine learning–based parameter optimization.
 
 <a href="assets/Algorithm_Trading.pdf" target="_blank">📄 View Full Report (PDF)</a>
-<a href="assets/Final_Project_last_version.pptx" target="_blank">📄 View Full Report (PDF)</a>
+<a href="assets/Final_Project_last_version.pptx" target="_blank">📄 View Presentation PPT</a>
 ---
 
 ## 📈 Barra Multi-Factor Model Construction  
