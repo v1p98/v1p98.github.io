@@ -4,7 +4,7 @@ title: Projects
 permalink: /projects/
 ---
 
-[Home](index.md) | [About Me](about.md) | [Projects](projects.md) | [Misc](misc.md)
+[Home](/) | [About Me](/about/) | [Projects](/projects/) | [Misc](/misc/)
 
 ---
 
@@ -26,8 +26,11 @@ permalink: /projects/
 - Analyzed and identified key drivers for algorithm design.  
 - Designed and backtested a time-weighted, score-based execution strategy with machine learning–based parameter optimization.
 
-<a href="assets/Algorithm_Trading.pdf" target="_blank">📄 View Full Report (PDF)</a>
-<a href="assets/Final_Project_last_version.pptx" target="_blank">📄 View Presentation PPT</a>
+<p style="margin-top: 10px; margin-bottom: 10px;">
+  <a href="/assets/Algorithm_Trading.pdf" target="_blank">📄 View Full Report (PDF)</a><br>
+  <a href="/assets/Final_Project_last_version.pptx" target="_blank">📄 View Presentation PPT</a>
+</p>
+
 ---
 
 ## 📈 Barra Multi-Factor Model Construction  
